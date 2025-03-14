@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fin-insight"
-version = "0.1.0"
+version = "0.1.1"
 description = "A financial analysis tool for stock sentiment and rating"
 readme = "README.md"
 authors = [{name = "Spock Stein", email = "spockstein@example.com"}]
