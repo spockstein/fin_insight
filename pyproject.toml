@@ -37,7 +37,7 @@ dev = [
 ]
 
 [project.scripts]
-fin-insight = "fin_insight:cli"
+fin-insight = "finance_insight.fin_insight:main"
 
 [project.urls]
 Homepage = "https://github.com/spockstein/fin_insight"

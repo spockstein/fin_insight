@@ -6,7 +6,7 @@ import os
 # Add the parent directory to the Python path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-import fin_insight
+from finance_insight import fin_insight
 
 class TestFinInsight(unittest.TestCase):
     def test_get_stock_data(self):
